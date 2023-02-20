@@ -3,7 +3,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/ItsAsau/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/SBC/count.svg" />
 </p>
 
 
@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <a href="https://t.me/Abishnoi1M"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+  <a href="https://t.me/SBC05"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
 <p align="center">
     <img
@@ -44,10 +44,10 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/Abishnoi1M"><img src="https://telegra.ph/file/8724b9fcb3950004bc8c8.jpg" width="700px" height="300px" /></a> |
+| <a href="https://t.me/SBC05"><img src="https://telegra.ph/file/8edc0b4ba5ff156b1a44b.jpg" width="700px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[SBC Owner Of My Own World 🌎](https://t.me/SBC05)**                                                                                |
-| <a href="https://t.me/Abishnoi_bots"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/Ashoksau_2929"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/techAbishnoi"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>                                                                     
+| <a href="https://t.me/SBC_bots"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/Ashoksau_2929"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/techAbishnoi"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>                                                                     
 
 
 <!-- Talking about you -->
@@ -109,9 +109,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 
 ## Join My Group 🇮🇳 ❤️
-<a href="https://t.me/Abishnoiyt" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://t.me/techSBC" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 ### Support & Updates ❤️ ❤️
-<a href="https://t.me/Abishnoi_bots"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SBC05"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/SBC_bots"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SBC05"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
