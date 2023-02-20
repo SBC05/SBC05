@@ -109,7 +109,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 
 ## Join My Group 🇮🇳 ❤️
-<a href="https://t.me/techSBC" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://t.me/techSBC" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="SBC_05" height="40" width="40" /></a> &nbsp;&nbsp;
 ### Support & Updates ❤️ ❤️
 <a href="https://t.me/SBC_bots"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SBC05"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <!-- Your support, if you have it 
